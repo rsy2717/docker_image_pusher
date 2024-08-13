@@ -1,1 +1,1 @@
-docker pull whyour/qinglong:latest
+whyour/qinglong:latest

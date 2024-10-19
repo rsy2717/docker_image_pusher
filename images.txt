@@ -1,2 +1,2 @@
 whyour/qinglong:latest
-halohub/halo:2
+halohub/halo:2.20
